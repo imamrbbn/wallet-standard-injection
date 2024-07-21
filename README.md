@@ -1,1 +1,4 @@
-# wallet-standard-injection
+```
+npm install
+npm run build
+```
